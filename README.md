@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Abhay Srivastava**, a developer passionate about **Deep Learning, Web Development, and Problem Solving**.
+I'm **Abhay Srivastava**, a developer passionate about **Deep Learning, AI, Web Development, and Problem Solving**.
 
 ---
 
@@ -16,25 +16,27 @@ I'm **Abhay Srivastava**, a developer passionate about **Deep Learning, Web Deve
 ---
 
 ### 🚀 I Love
-- Solving challenging problems (LeetCode, Codeforces, etc.)
-- Building machine learning models
-- Developing full-stack web apps
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) **Solving coding problems**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) **Building ML & Deep Learning Projects**
+
+![Web](https://img.shields.io/badge/Full%20Stack%20Web%20Apps-000000?style=for-the-badge&logo=vercel&logoColor=white) **Developing Full-Stack AI Web Applications**
+
+---
+
+### 🏆 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhay_Srivastava26?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Abhay_Srivastava26/)
 
 ---
 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-srivastava-9a7511264/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaysrivastava2627@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ---
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhaySrivastava26&show_icons=true&theme=dark)
-### 🏆 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhay_Srivastava26?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Abhay_Srivastava26/)
-
 
 ---
 
